@@ -7,6 +7,8 @@
 <h4 align="center">I am doing Mtech.Integrated CSE with specialisation in Data Science at Vellore Institute of Technology,Vellore . I like to Code, Design, Innovate and Experiment. I am an enthusiastic and I love to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanjalireddy&theme=algolia" alt="hemanjali"  /></p>
 
 ## 🛠️ My Skills
 
