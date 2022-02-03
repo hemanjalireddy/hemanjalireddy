@@ -8,7 +8,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanjalireddy&theme=algolia" alt="hemanjali"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanjalireddy&theme=algolia" alt="hemanjalireddy"  /></p>
 
 ## 🛠️ My Skills
 
