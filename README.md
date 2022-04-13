@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer%20Science%20Student;Full%20Stack%20Web%20Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am pursuing Mtech.Integrated CSE with specialisation in Data Science at Vellore Institute of Technology,Vellore . I like to Code, Design, Innovate and Experiment. I am an enthusiastic and I love to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am pursuing Mtech.Integrated CSE with specialisation in Data Science at Vellore Institute of Technology,Vellore . I like to Code, Design, Innovate and Experiment. I am an enthusiastic and I love to take up new challenges and learn new skills. I love learning new things everyday , exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
 ## 🔥 Streak Stats
